@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lifestyle & Haircare Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Lifestyle & Natural Haircare</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="life.html">Lifestyle</a>
+            <a href="vlog.html">Vlog</a>
+            <a href="#haircare">Haircare</a>
+            <a href="rock.html">Contact</a>
+        </nav>
+    </header>
+    <P style="text-transform: capitalize;"> DOWN BELOW ARE QUICK REACH TO KNOW FOLLOW THE LINK ABOVE</P>
+    <hr>
+  
+      <div>
+        <section id="home" class="hero">
+            <h2>Welcome to My World 🌿</h2>
+            <p>Sharing my journey in lifestyle, natural haircare, and everyday inspiration.</p>
+              </section>
+          
+              <section id="lifestyle" class="content">
+            <h2>Lifestyle</h2>
+            <p>Discover simple routines and habits for a healthy, balanced life.</p>
+            <ul>
+                <li>Morning self-care rituals</li>
+                <li>Staying organized & productive</li>
+                <li>Healthy eating and home wellness</li>
+            </ul>
+              </section>
+          
+              <section id="vlog" class="content">
+            <h2>Vlog</h2>
+            <p>Watch my latest videos and see my daily routines in action.</p>
+            <div class="video">
+                <p>🎥 Video: “My Wash Day Routine” (<a href="http://"//www.youtube.com/>my youtube channel</a>)</p>
+            </div>
+              </section>
+          
+              <section id="haircare" class="content">
+            <h2>Natural Haircare</h2>
+            <p>Learn tips and tricks for caring for your natural hair.</p>
+            <ul>
+                <li>DIY Shea Butter Mix</li>
+                <li>Protective styles for 4C hair</li>
+                <li>Product reviews and routines</li>
+            </ul>
+              </section>
+          
+              <section id="contact" class="content">
+            <h2>Contact Me</h2>
+            <p>Have questions or want to collaborate?</p>
+            <p>Email: <a href="mailto:corneliusishaka8@gmail.com">Ishakasucces@gmail.com</a></p>
+              </section>
+          
+              <footer>
+            <p>&copy; 2025 My Lifestyle & Natural Haircare | Designed by Cornelius Ishaka</p>
+              </footer>
+      </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style> 
+    html{
+        background-image: url(./image/girl.jpg);
+        background-repeat:repeat;
+        
+    }
+    h1{
+        color: white;
+        text-transform: capitalize;
+    }
+
+    h3{
+        color: white;
+        text-transform: uppercase;
+    }
+    p{
+        color: white;
+    }
+
+    ol{
+        color: white;
+        
+    }
+
+    </style>
+</head>
+<body>
+    <h1> my lifestyle</h1>
+      <p>
+         A lifestyle routine is a set of daily habits and activities that help you stay balanced,
+         healthy, and productive. It shapes how you live, <br> feel, and perform each day.
+         Having a good routine brings structure, reduces stress, and improves both physical
+         and mental well-being.
+     </p> 
+     <p> Examples of lifestyle routines include:</p>
+      <ol>
+          <li>
+              Morning Routine: Waking up early, stretching, praying or meditating, eating a
+                   healthy breakfast, and planning your day.
+          </li>
+               <li>
+                   Self-Care Routine: Taking care of your body, skin, and hair; spending time
+                   relaxing; and doing activities that make you happy.
+               </li>
+               <li>
+                   Fitness Routine: Regular exercise like walking, yoga, or gym workouts to stay
+                   active and strong.
+               </li>
+          <li>
+              Night Routine: Reflecting on your day, reading, skincare, and sleeping early to
+                   recharge.
+          </li>
+      </ol> <h3>Benefits of maintaining routines:</h3>
+      <ol>
+          <li>Builds discipline and consistency</li>
+          <li>
+              Improves mood and focus</li>
+          <li> Promotes healthy habits and reduces anxiety  </li>
+          <li>  Helps manage time effectively</li>
+      </ol>
+      <p>
+          A good lifestyle routine is personal — it should fit your goals, values, and
+               personality while keeping you feeling your best every day
+      .</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>vlog</title>
+<style>
+html 
+{
+    background-color: black;
+} 
+h1{
+    text-transform: capitalize;
+}
+img{
+    width: 300px;
+padding: 2rem;
+}
+
+
+li{
+
+    color: white;
+}
+</style>
+</head>
+
+<body>
+    <h1> these are some of my vlogs</h1>
+    <ol>
+        <li><img src="./image/IMG-20251027-WA0046.jpg" alt="coco" ></li>
+        <li><img src="./image/IMG-20251027-WA0048.jpg" alt="corn"></li>
+        <li><img src="./image/girl.jpg" alt="home"></li>
+        <li><img src="./image/IMG-20251027-WA0049.jpg" alt="wow"></li>
+    </ol>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact </title>
+    <style>
+        html{
+            background-color: pink;
+        }
+        h1{
+             text-transform: capitalize;
+        }
+    </style>
+</head>
+<body>
+     <h1>you can contact with the following</h1>
+    <ol>
+        <li> whatsapp : +2348054749855</li>
+        <li>gmail : Ishakasucces@gmail.com
+        </li>
+        <li> x: sussex</li>
+    </ol>
+    <p> and others yet to come</p>
+</body>
+</html>
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #88c999;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Hero Section */
+.hero {
+    overflow: auto; /* Ensures the float doesn't break layout */
+    background-color: #d8f3dc;
+    padding: 30px 20px;
+}
+
+/* 🌿 Floating image styling */
+/*.left-image {
+    float: left;
+    width: 40%;              /* Image takes 40% of the space */
+     /* Keeps it from getting too
+.hero-text {
+    overflow: hidden;        /* Keeps text aligned next to image */
+
+
+.hero-text h2 {
+    color: #2e8b57;
+}
+
+/* Content sections */
+.content {
+    padding: 40px 20px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+.content h2 {
+    color: #2e8b57;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 14px;
+}
